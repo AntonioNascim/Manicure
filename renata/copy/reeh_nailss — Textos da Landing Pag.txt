@@ -1,0 +1,167 @@
+reeh_nailss — Textos da Landing Page
+
+
+Estrutura baseada no site de referência (Studio Ana Barros Beauty Academy), adaptada para a identidade da reeh_nailss. Abaixo estão todos os textos, organizados por seção, prontos para você aplicar no layout.
+
+
+
+
+1. Barra superior (topo do site)
+
+Endereço/telefone (editável):
+Rua [Nome da Rua], [Número] - [Bairro] - [Cidade/UF] • (XX) XXXXX-XXXX
+
+Ícones de redes sociais (links, sem texto):
+
+
+WhatsApp
+Instagram
+TikTok
+Google Maps
+
+
+
+2. Menu de navegação
+
+
+Início
+Sobre
+Serviços
+Galeria
+Depoimentos
+Contato
+
+
+Logo/nome no menu: reeh_nailss
+
+
+3. Seção Hero (Boas-vindas)
+
+Tag/selo pequeno acima do título:
+SEJA BEM-VINDA(O)
+
+Título principal:
+Suas unhas, sua confiança
+
+Subtítulo:
+Nail designer especializada em alongamento, esmaltação em gel e nail art
+
+Texto de apresentação:
+A reeh_nailss é um espaço dedicado ao cuidado das suas unhas, com técnicas atualizadas e muito capricho em cada detalhe. Aqui você encontra alongamento em fibra e gel, esmaltação em gel, nail art personalizada e spa das mãos e dos pés, tudo pensado para você sair renovada e com autoestima lá em cima. Cada atendimento é feito com atenção individual, produtos de qualidade e um olhar atento às tendências, para entregar sempre um resultado bonito, duradouro e do seu jeito.
+
+Botão de destaque (CTA principal):
+AGENDAR HORÁRIO
+
+
+4. Seção "Nossos Serviços"
+
+Título da seção:
+NOSSOS SERVIÇOS
+
+Cards de serviço (ícone/imagem + título curto):
+
+
+ALONGAMENTO EM GEL
+ALONGAMENTO EM FIBRA
+ESMALTAÇÃO EM GEL
+MANICURE E PEDICURE
+NAIL ART
+SPA DAS MÃOS E PÉS
+BANHO DE GEL
+MANUTENÇÃO
+
+
+(cada card pode ganhar uma linha curta de descrição, se quiser — exemplos abaixo, opcionais)
+
+
+Alongamento em gel: unhas fortes, no comprimento e formato que você quiser.
+Alongamento em fibra: leveza e resistência para o dia a dia.
+Esmaltação em gel: cor intensa e brilho que dura semanas.
+Manicure e pedicure: cuidado completo com muita higiene.
+Nail art: desenhos e acabamentos personalizados.
+Spa das mãos e pés: hidratação e relaxamento de verdade.
+
+
+
+5. Seção de Agendamento (CTA)
+
+Título:
+FAÇA SEU AGENDAMENTO
+
+Texto de apoio:
+Escolha o melhor dia e horário para você e garanta seu atendimento com a reeh_nailss.
+
+Botão:
+AGENDAR HORÁRIO
+
+Texto complementar (WhatsApp):
+Prefere combinar direto? Fale com a gente pelo WhatsApp: (XX) XXXXX-XXXX
+
+
+6. Seção Instagram / Redes Sociais
+
+Título:
+SIGA NOSSO INSTAGRAM
+@reeh_nailss
+
+Texto de apoio:
+Acompanhe nossos trabalhos, promoções e novidades por lá.
+
+(espaço reservado para grade de fotos do feed)
+
+
+7. Seção de Prova Social (número de atendimentos)
+
+Texto de apoio acima do número:
+Atendimentos realizados com carinho
+
+Número em destaque:
+[X.XXX]
+
+(Ex.: "Atendimentos realizados" / "Clientes satisfeitas")
+
+
+8. Seção Depoimentos (opcional, sugerida a partir da estrutura de referência)
+
+Título:
+O QUE NOSSAS CLIENTES DIZEM
+
+Modelo de depoimento (placeholder):
+"Amei o resultado, minhas unhas nunca duraram tanto tempo bonitas! Atendimento super atencioso." — [Nome da cliente]
+
+(repetir estrutura para 2-3 depoimentos)
+
+
+9. Rodapé
+
+Endereço:
+ENDEREÇO
+Rua [Nome da Rua], [Número] - [Bairro] - [Cidade] - [UF]
+
+Telefone/WhatsApp:
+(XX) XXXXX-XXXX
+
+Horário de atendimento:
+Horário de Atendimento
+Segunda à Sábado
+[00:00h] às [00:00h]
+
+Redes sociais (ícones/links):
+
+
+Instagram
+TikTok
+WhatsApp
+Google Maps
+
+
+Copyright:
+© 2026 reeh_nailss. Todos os direitos reservados.
+
+
+Observações para a próxima etapa (desenvolvimento)
+
+
+Os campos entre colchetes [ ] são placeholders para você preencher com dados reais (endereço, telefone, horários, número de atendimentos, nome de clientes nos depoimentos).
+A estrutura segue a mesma ordem lógica do site de referência: barra de contato → menu → hero de boas-vindas → grade de serviços → CTA de agendamento → Instagram → prova social (número de atendimentos) → depoimentos → rodapé com endereço/horário.
+Sugiro manter o botão "AGENDAR HORÁRIO" repetido em pelo menos dois pontos da página (hero e seção de agendamento), assim como no site de referência.
